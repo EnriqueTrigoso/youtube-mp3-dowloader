@@ -1,0 +1,2 @@
+# Incluye yt-dlp-ejs, necesario para compatibilidad con YouTube en instalaciones pip.
+yt-dlp[default]

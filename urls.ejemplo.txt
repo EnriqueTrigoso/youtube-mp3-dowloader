@@ -1,0 +1,4 @@
+# Copia este archivo como urls.txt.
+# Añade una URL de YouTube por línea. Las líneas vacías y los comentarios se ignoran.
+# https://www.youtube.com/watch?v=IDENTIFICADOR_DEL_VIDEO
+# https://youtu.be/IDENTIFICADOR_DEL_VIDEO

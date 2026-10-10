@@ -1,0 +1,18 @@
+# URL de videos (pueden ser privados o no listados)
+/urls.txt
+
+# Descargas e historial
+/descargas/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+
+# IDE / SO
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
